@@ -23,4 +23,4 @@ Please, note that both function doesn't help to avoid data mistakes inside 5 min
 ## Additional info
 
 - Output samples of processing 'prices.csv' provided in this repo inside 'output' folder.
-- All the notes and comments in script provided in English (as the task also in English), but I can simply translate them for you if needed.
+- All the notes and comments in script provided in English (as the task also in English), but I can simply translate them for you in Russian if needed.
